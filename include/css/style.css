@@ -269,6 +269,7 @@ span.arrow-down {text-align: center;font-size: 22px;margin-top: 10px;}
 .portfolio-text-box h6 { font-size: 12px; font-weight: 600; letter-spacing: .3px; line-height: 20px; margin-bottom: 14px; color: #BDBDBD;}
 .portfolio-text-box h3 { font-size: 26px; line-height: 30px; margin-bottom: 9px; color: var(--yellow); }
 .portfolio-img-slider-list { width: 96%; height: 82.6%; float: left;  position: absolute; left: 50%;  transform: translateX(-50%);border-radius: 7px;overflow: hidden;top: 4%;}
+.portfolio-img-slider-list .slick-list.draggable { padding-right: 0; }
 .portfolio-img-item{padding: 0 !important;}
 .portfolio-img-box {overflow: hidden;}
 .portfolio-img-slide-content img { width: 100%; height: 100%; object-fit: cover; }
